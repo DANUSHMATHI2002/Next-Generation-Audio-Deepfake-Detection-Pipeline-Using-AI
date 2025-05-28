@@ -1,9 +1,9 @@
 
 
-# **Audio Deepfake Detection Assessment**
+# **Next-Generation Audio Deepfake Detection Pipeline Using AI**
 
 ## **Project Overview**
-This repository contains my implementation of the **Audio Deepfake Detection Assessment**. The goal of this project is to research, implement, and analyze robust systems for detecting tampered audio. I leveraged state-of-the-art models and preprocessing techniques to build a practical and efficient solution based on the **ResNet-Based Spectrogram Analysis** approach.
+This repository contains my implementation of the **Next-Generation Audio Deepfake Detection Pipeline Using AI**. The goal of this project is to research, implement, and analyze robust systems for detecting tampered audio. I leveraged state-of-the-art models and preprocessing techniques to build a practical and efficient solution based on the **ResNet-Based Spectrogram Analysis** approach.
 
 ---
 
