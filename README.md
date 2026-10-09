@@ -5,8 +5,15 @@ This repository contains my implementation of the **Next-Generation Audio Deepfa
 
 ---
 
+## 📊 Dashboard
+
+![Audio Tampering Detection Dashboard](deepfake.png)
+
+---
+
 ## 📂 Contents
 - [Project Overview](#-project-overview)  
+- [Dashboard](#-dashboard)  
 - [Approach](#-approach)  
 - [Implementation](#-implementation)  
 - [Evaluation Metrics](#-evaluation-metrics)  
@@ -97,15 +104,15 @@ After reviewing existing research and the [Audio Deepfake Detection Repository](
 
 ### Prerequisites  
 1. **Clone the Repository**  
-    ```bash  
+```bash  
     git clone https://github.com/DANUSHMATHI2002/Momenta_Task.git  
     cd Momenta_Task  
-    ```  
+```  
 
 2. **Install Dependencies**  
-    ```bash  
+```bash  
     pip install -r requirements.txt  
-    ```  
+```  
 
 ### Dataset  
 - The dataset used is **CMFD (Chinese-English Fake Detection)**.  
@@ -115,9 +122,9 @@ After reviewing existing research and the [Audio Deepfake Detection Repository](
 ### Using the Dataset  
 1. Download and place the ZIP file in the root directory of this project.  
 2. Run the preprocessing script:  
-    ```bash  
+```bash  
     python preprocess_data.py  
-    ```  
+```  
 
 ---
 
